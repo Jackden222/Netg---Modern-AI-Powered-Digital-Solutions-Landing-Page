@@ -59,7 +59,7 @@ A stunning, responsive landing page built with modern web technologies to showca
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Jackden222/Netg---Modern-AI-Powered-Digital-Solutions-Landing-Page.git]
+git clone https://github.com/Jackden222/Netg---Modern-AI-Powered-Digital-Solutions-Landing-Page.git
 ```
 
 2. Install dependencies:
